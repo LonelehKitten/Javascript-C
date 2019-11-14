@@ -10,8 +10,8 @@
 ### Requirements
 
  * Linux system OS
- * Be right that you've the right libs according to __key.h__ file.
+ * Be right that you've the right libs according to _key.h_ file.
 
 ### Command
 
- * **gcc** __yourfiles.c javascript.c key.c__ **-o** __the_executable_name__
+ * **gcc** _yourfiles.c javascript.c key.c_ **-o** _the_executable_name_
