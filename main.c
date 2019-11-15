@@ -1,9 +1,12 @@
 #include "javascript.h"
 #include "key.h"
+#include "stdjs.h"
 
 Object obj;
 
 $({
+
+    printf("\n\n%d\n\n", type.INT);
 
     obj.on("keypress", function( void, {
         
